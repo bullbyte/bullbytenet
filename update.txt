@@ -4,7 +4,7 @@
 
   "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL! 👋\n🚀 CLIQUE EM ATUALIZAR 🚀",
 
-  "UrlUpdate": "https://bitbin.it/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/bullbyte/bullbytenet/main/update.txt",
 
   "Sms": "https://bitbin.it//raw/",
 
