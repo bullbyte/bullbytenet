@@ -1,74 +1,38 @@
 {
-
-  "Version": "1.0",
-
+  "Version": "8.0.2",
   "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL! 👋\n🚀 CLIQUE EM ATUALIZAR 🚀",
-
-  "UrlUpdate": "https://raw.githubusercontent.com/bullbyte/bullbytenet/main/update.txt",
-
-  "Sms": "https://bitbin.it//raw/",
-
+  "UrlUpdate": "https://bitbin.it/UMfvvOzZ/raw/",
+  "Sms": "https://bitbin.it/LUIcTECJ/raw/",
   "EmailFeedback": "",
-
   "UrlContato": "",
-
   "UrlTermos": "https://bitbin.it/7Bhdn4nl/raw/",
-
   "CheckUser": "true",
-
   "UdpPort": "7290;7291;7292;7293;7294;7295;7296;7297;7298;7299;7300",
-
   "Servers": [
-
     {
-
-   "Name": "⚡  BullByte Net ⚡",
-
+   "Name": "⚡BullByte⚡",
       "TYPE": "Premium",
-
       "FLAG": "br.png",
-
       "ServerIP": "ssh.constru.art.br",
-
       "CheckUser": "http://149.56.245.35:82/checkUser",
-
       "ServerPort": "22",
-
       "SSLPort": "443",
-
       "USER": "",
-
       "PASS": ""
-
     }
-
     
 
  ]
-
 "Networks": [
-
 { 
-
-"Name":"📱 VIVO 📡",
-
+"Name":"📱 VIVO TLS 02 📡💜",
 "FLAG":"vivo",
-
 "Payload":"TRUE-CONTROL / [protocol][crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-
 "SNI":"[app_host]",
-
 "TlsIP":"104.16.53.111",
-
 "ProxyIP":"",
-
 "ProxyPort":"443",
-
 "Info":"Tlsws"
-
 }
-
 ]
-
 }
-
