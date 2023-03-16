@@ -1,8 +1,8 @@
 {
   "Version": "8.0.2",
   "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL! 👋\n🚀 CLIQUE EM ATUALIZAR 🚀",
-  "UrlUpdate": "https://bitbin.it/UMfvvOzZ/raw/",
-  "Sms": "https://bitbin.it/LUIcTECJ/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/bullbyte/bullbytenet/main/update.txt",
+  "Sms": "https://raw.githubusercontent.com/bullbyte/bullbytenet/main/update.txt",
   "EmailFeedback": "",
   "UrlContato": "",
   "UrlTermos": "https://bitbin.it/7Bhdn4nl/raw/",
